@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ujjawal808/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjawal808/Leetcode/tree/master/0009-palindrome-number) |
 | [3663-find-the-least-frequent-digit](https://github.com/ujjawal808/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Monotonic Stack
