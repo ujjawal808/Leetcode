@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjawal808/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/ujjawal808/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ujjawal808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ujjawal808/Leetcode/tree/master/0704-binary-search) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ujjawal808/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ujjawal808/Leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ujjawal808/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ujjawal808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ujjawal808/Leetcode/tree/master/0242-valid-anagram) |
