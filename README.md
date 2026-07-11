@@ -1,15 +1,19 @@
-# 🚀 LeetCode Journey
-
 <div align="center">
+
+# 🚀 LeetCode Journey
 
 # 👨‍💻 Ujjawal Baliyan
 
-### Java | DSA | Problem Solving | MCA Student
+### MCA Student | Java Programmer | DSA Enthusiast | Aspiring Software Development Engineer
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem-Solving-success?style=for-the-badge)
+
+---
+
+*"Consistency beats intensity. Solve one problem every day."* 🚀
 
 </div>
 
@@ -21,63 +25,54 @@ Welcome to my **LeetCode Solutions Repository**.
 
 This repository contains my accepted **Java** solutions for LeetCode problems.
 
-I solve problems consistently to improve my:
+I solve problems consistently to strengthen my:
 
-- ✅ Data Structures
-- ✅ Algorithms
-- ✅ Problem Solving
-- ✅ Coding Interview Skills
+- 🟢 Data Structures
+- 🟡 Algorithms
+- 🔵 Problem Solving
+- 🔴 Coding Interview Skills
 
 ---
 
-# 📊 Progress
+# 📊 Current Progress
 
 | Difficulty | Solved |
 |------------|-------:|
 | 🟢 Easy | 25 |
 | 🟡 Medium | 11 |
 | 🔴 Hard | 6 |
-| 🎯 Total | 42 |
-
-> **Last Updated:** July 2026
+| 🎯 Total | **42** |
 
 ---
 
-# 📚 Topics Covered
+# 📚 DSA Topics Covered
 
-- Arrays
-- Strings
-- HashMap
-- Two Pointers
-- Sliding Window
-- Stack
-- Queue
-- Linked List
-- Binary Search
-- Sorting
-- Matrix
-- Recursion
-- Prefix Sum
-- Greedy
-
----
-
-# 📂 Repository Structure
-
-```
-Easy/
-Medium/
-Hard/
-```
+- ✅ Arrays
+- ✅ Strings
+- ✅ HashMap
+- ✅ Stack
+- ✅ Queue
+- ✅ Linked List
+- ✅ Binary Search
+- ✅ Matrix
+- ✅ Sorting
+- ✅ Prefix Sum
+- ✅ Greedy
+- 🔄 Trees (In Progress)
+- 🔄 Graphs (Coming Soon)
+- 🔄 Dynamic Programming (Coming Soon)
 
 ---
 
-# ⭐ Recent Problems
+# ⭐ Featured Problems
 
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 53 | Maximum Subarray | 🟢 Easy |
+| Problem No. | Problem Name | Difficulty |
+|-------------|--------------|------------|
 | 7 | Reverse Integer | 🟢 Easy |
+| 13 | Roman to Integer | 🟢 Easy |
+| 14 | Longest Common Prefix | 🟢 Easy |
+| 20 | Valid Parentheses | 🟢 Easy |
+| 53 | Maximum Subarray | 🟢 Easy |
 | 54 | Spiral Matrix | 🟡 Medium |
 | 73 | Set Matrix Zeroes | 🟡 Medium |
 | 74 | Search a 2D Matrix | 🟡 Medium |
@@ -92,46 +87,52 @@ Hard/
 
 # 🎯 Current Goals
 
-- [ ] 100 Problems
-- [ ] 250 Problems
-- [ ] 500 Problems
-- [ ] 1000 Problems
+- [ ] 💯 100 Problems
+- [ ] 🚀 250 Problems
+- [ ] 🏆 500 Problems
+- [ ] 👑 1000 Problems
 
 ---
 
-# 💻 Language
+# 📂 Repository Structure
 
-- Java ☕
+```
+📂 Easy
+📂 Medium
+📂 Hard
+```
 
 ---
 
-# 🔥 Current Focus
+# 💻 Programming Language
 
-- Data Structures & Algorithms
-- Java Programming
-- LeetCode Problem Solving
-- Interview Preparation for Software Development Engineer (SDE)
+☕ Java
+
+---
+
+# 🎯 Current Focus
+
+- 📚 Data Structures & Algorithms
+- ☕ Java Programming
+- 💻 LeetCode Problem Solving
+- 🎯 Software Development Engineer (SDE) Preparation
 
 ---
 
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/ujjawal808
-- LeetCode: https://leetcode.com/u/Ujjawalbaliyan/
-- Email: ubaliyan808@gmail.com
-
----
-
-# ⭐ If you like this repository
-
-Give it a ⭐ and follow my coding journey!
+- 💼 GitHub: https://github.com/ujjawal808
+- 🟨 LeetCode: https://leetcode.com/u/Ujjawalbaliyan/
+- 📧 Email: ubaliyan808@gmail.com
 
 ---
 
 <div align="center">
 
-## 🚀 Happy Coding!
+## ⭐ Thanks for visiting!
 
-*"Consistency beats intensity. Solve one problem every day."*
+If you find this repository helpful, don't forget to ⭐ Star it.
+
+### Happy Coding! 🚀
 
 </div>
