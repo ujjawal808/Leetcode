@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ujjawal808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ujjawal808/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/ujjawal808/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3731-find-missing-elements](https://github.com/ujjawal808/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ujjawal808/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/ujjawal808/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
 |  |
 | ------- |
