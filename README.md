@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjawal808/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ujjawal808/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ujjawal808/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
