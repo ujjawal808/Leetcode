@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/ujjawal808/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3663-find-the-least-frequent-digit](https://github.com/ujjawal808/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/ujjawal808/Leetcode/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/ujjawal808/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0867-transpose-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujjawal808/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3925-concatenate-array-with-reverse](https://github.com/ujjawal808/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
