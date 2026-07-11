@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjawal808/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ujjawal808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ujjawal808/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjawal808/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -33,11 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ujjawal808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ujjawal808/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ujjawal808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ujjawal808/Leetcode/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
