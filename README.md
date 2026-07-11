@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ujjawal808/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujjawal808/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3663-find-the-least-frequent-digit](https://github.com/ujjawal808/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/ujjawal808/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ujjawal808/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ujjawal808/Leetcode/tree/master/0242-valid-anagram) |
+| [3663-find-the-least-frequent-digit](https://github.com/ujjawal808/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/ujjawal808/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
+| [3663-find-the-least-frequent-digit](https://github.com/ujjawal808/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Trie
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ujjawal808/Leetcode/tree/master/0009-palindrome-number) |
+| [3663-find-the-least-frequent-digit](https://github.com/ujjawal808/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Monotonic Stack
 |  |
 | ------- |
