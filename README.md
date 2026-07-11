@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ujjawal808/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ujjawal808/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ujjawal808/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3731-find-missing-elements](https://github.com/ujjawal808/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ujjawal808/Leetcode/tree/master/0867-transpose-matrix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ujjawal808/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ujjawal808/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/ujjawal808/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
