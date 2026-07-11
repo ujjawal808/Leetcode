@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjawal808/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ujjawal808/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/ujjawal808/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/ujjawal808/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ujjawal808/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ujjawal808/Leetcode/tree/master/0169-majority-element) |
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ujjawal808/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ujjawal808/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
