@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ujjawal808/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/ujjawal808/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
