@@ -143,16 +143,20 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
