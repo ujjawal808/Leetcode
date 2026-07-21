@@ -8,7 +8,7 @@ class Solution {
         }
 
         // Sort by end time
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[1], b[1]));
+      Arrays.sort(intervals, Comparator.comparingInt(a -> a[1]));
 
         int remove = 0;
         int lastEnd = intervals[0][1];
