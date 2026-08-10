@@ -7,54 +7,38 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+// 
 class Solution {
 
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 
-        ArrayList<TreeNode> path1 = new ArrayList<>();
-        ArrayList<TreeNode> path2 = new ArrayList<>();
-
-        getPath(root, path1, p);
-        getPath(root, path2, q);
-
-        int i;
-
-        // Find the first different node
-        for (i = 0; i < path1.size() && i < path2.size(); i++) {
-
-            if (path1.get(i) != path2.get(i)) {
-                break;
-            }
-        }
-
-        // Last common node
-        return path1.get(i - 1);
-    }
-
-    public boolean getPath(TreeNode root,
-                           ArrayList<TreeNode> path,
-                           TreeNode target) {
-
+        // Base case
         if (root == null) {
-            return false;
+            return null;
         }
 
-        path.add(root);
-
-        if (root == target) {
-            return true;
+        // If root is p or q
+        if (root == p || root == q) {
+            return root;
         }
 
-        boolean foundLeft = getPath(root.left, path, target);
-        boolean foundRight = getPath(root.right, path, target);
+        // Search in left subtree
+        TreeNode leftlca = lowestCommonAncestor(root.left, p, q);
 
-        if (foundLeft || foundRight) {
-            return true;
+        // Search in right subtree
+        TreeNode rightlca = lowestCommonAncestor(root.right, p, q);
+
+        // If left is null, return right
+        if (leftlca == null) {
+            return rightlca;
         }
 
-        // Backtracking
-        path.remove(path.size() - 1);
+        // If right is null, return left
+        if (rightlca == null) {
+            return leftlca;
+        }
 
-        return false;
+        // Both sides have p and q
+        return root;
     }
 }
