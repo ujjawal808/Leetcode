@@ -175,6 +175,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -218,4 +220,8 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
