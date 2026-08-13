@@ -161,6 +161,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +186,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -199,6 +201,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 | [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -218,6 +221,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## DP on Trees
 |  |
@@ -254,6 +258,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
