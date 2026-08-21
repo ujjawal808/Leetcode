@@ -142,6 +142,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -153,6 +154,7 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -269,4 +271,8 @@ If you find this repository helpful, don't forget to ⭐ Star it.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
