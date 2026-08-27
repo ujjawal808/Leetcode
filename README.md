@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 🚀 Ujjawal Baliyan — LeetCode Journey
@@ -10,6 +9,15 @@
   <img src="https://img.shields.io/badge/LeetCode-DSA-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
   <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-Active-success?style=for-the-badge"/>
+</p>
+
+<p>
+  <a href="https://leetcode.com/u/Ujjawalbaliyan/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ujjawal808">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p>
@@ -56,9 +64,9 @@ I focus on understanding not only **how to solve a problem**, but also:
 
 </div>
 
-> 🔄 **Live statistics:** The card above is dynamically generated from my LeetCode profile instead of using manually hard-coded numbers.
+> 🔄 **Live statistics:** The card above is dynamically generated from my LeetCode profile rather than using manually hard-coded Easy, Medium, Hard, and Total values.
 >
-> This means my solved count, Easy/Medium/Hard breakdown, ranking, and other available statistics can update as my LeetCode profile changes.
+> 📌 The exact current solved count should be taken from the live card above.
 
 ---
 
@@ -70,7 +78,7 @@ I focus on understanding not only **how to solve a problem**, but also:
 
 </div>
 
-> 📌 Shows recent LeetCode submission activity.
+> 📌 Displays recent LeetCode submission activity.
 
 ---
 
@@ -82,18 +90,18 @@ I focus on understanding not only **how to solve a problem**, but also:
 
 </div>
 
-> 🔥 A visual representation of my coding activity and consistency.
+> 🔥 Visualizes coding activity and consistency over the past 52 weeks.
 
 ---
 
 # 🎯 Current Progress
 
-## 🏆 60+ Problems Solved
+## 🏆 61+ Problems Solved
 
-I have crossed the **60+ LeetCode problems milestone** and am continuously working toward higher problem-solving goals.
+I have currently crossed the **61+ LeetCode problems milestone** and am continuously working toward the next major goal.
 
 ```text
-                    🟢 60+ Problems
+                    🟢 61+ Problems
                            │
                            ▼
                     🎯 100 Problems
@@ -106,20 +114,21 @@ I have crossed the **60+ LeetCode problems milestone** and am continuously worki
                            │
                            ▼
                     👑 1000 Problems
-````
+```
 
 ### 🏅 Milestones
 
-| Milestone        | Status            |
-| ---------------- | ----------------- |
-| 🟢 50 Problems   | ✅ Completed       |
-| 🚀 60+ Problems  | ✅ Completed       |
-| 💯 100 Problems  | 🔄 In Progress    |
-| 🚀 250 Problems  | ⏳ Planned         |
-| 🏆 500 Problems  | ⏳ Planned         |
+| Milestone | Status |
+|------------|--------|
+| 🟢 50 Problems | ✅ Completed |
+| 🚀 60 Problems | ✅ Completed |
+| 🏆 61+ Problems | ✅ Completed |
+| 💯 100 Problems | 🔄 In Progress |
+| 🚀 250 Problems | ⏳ Planned |
+| 🏆 500 Problems | ⏳ Planned |
 | 👑 1000 Problems | 🎯 Long-Term Goal |
 
-> 📊 **For the exact current solved count, see the live LeetCode card above.**
+> 📊 **The live LeetCode card above is the source of truth for the exact current count.**
 
 ---
 
@@ -127,59 +136,59 @@ I have crossed the **60+ LeetCode problems milestone** and am continuously worki
 
 ### 📦 Data Structures
 
-* ✅ Arrays
-* ✅ Strings
-* ✅ HashMap
-* ✅ Stack
-* ✅ Queue
-* ✅ Linked List
-* ✅ Binary Tree
-* ✅ Binary Search Tree
-* ✅ Matrix
+- ✅ Arrays
+- ✅ Strings
+- ✅ HashMap
+- ✅ Stack
+- ✅ Queue
+- ✅ Linked List
+- ✅ Binary Tree
+- ✅ Binary Search Tree
+- ✅ Matrix
 
 ### ⚡ Algorithms & Techniques
 
-* ✅ Binary Search
-* ✅ Sorting
-* ✅ Prefix Sum
-* ✅ Greedy
-* ✅ Depth-First Search
-* ✅ Breadth-First Search
-* ✅ Backtracking
-* ✅ Divide and Conquer
-* ✅ Two Pointers
-* ✅ Tree Dynamic Programming
-* ✅ Lowest Common Ancestor
-* ✅ Binary Lifting
+- ✅ Binary Search
+- ✅ Sorting
+- ✅ Prefix Sum
+- ✅ Greedy
+- ✅ Depth-First Search
+- ✅ Breadth-First Search
+- ✅ Backtracking
+- ✅ Divide and Conquer
+- ✅ Two Pointers
+- ✅ Tree Dynamic Programming
+- ✅ Lowest Common Ancestor
+- ✅ Binary Lifting
 
 ### 🔄 Currently Learning
 
-* 🔄 Advanced Trees
-* 🔄 Graph Algorithms
-* 🔄 Dynamic Programming
-* 🔄 Advanced Backtracking
-* 🔄 Advanced Problem-Solving Patterns
+- 🔄 Advanced Trees
+- 🔄 Graph Algorithms
+- 🔄 Dynamic Programming
+- 🔄 Advanced Backtracking
+- 🔄 Advanced Problem-Solving Patterns
 
 ---
 
 # ⭐ Featured Problems
 
-| Problem No. | Problem Name                    | Difficulty |
-| ----------- | ------------------------------- | ---------- |
-| 7           | Reverse Integer                 | 🟢 Easy    |
-| 13          | Roman to Integer                | 🟢 Easy    |
-| 14          | Longest Common Prefix           | 🟢 Easy    |
-| 20          | Valid Parentheses               | 🟢 Easy    |
-| 53          | Maximum Subarray                | 🟢 Easy    |
-| 54          | Spiral Matrix                   | 🟡 Medium  |
-| 73          | Set Matrix Zeroes               | 🟡 Medium  |
-| 74          | Search a 2D Matrix              | 🟡 Medium  |
-| 88          | Merge Sorted Array              | 🟢 Easy    |
-| 121         | Best Time to Buy and Sell Stock | 🟢 Easy    |
-| 169         | Majority Element                | 🟢 Easy    |
-| 217         | Contains Duplicate              | 🟢 Easy    |
-| 704         | Binary Search                   | 🟢 Easy    |
-| 867         | Transpose Matrix                | 🟢 Easy    |
+| Problem No. | Problem Name | Difficulty |
+|-------------|--------------|------------|
+| 7 | Reverse Integer | 🟢 Easy |
+| 13 | Roman to Integer | 🟢 Easy |
+| 14 | Longest Common Prefix | 🟢 Easy |
+| 20 | Valid Parentheses | 🟢 Easy |
+| 53 | Maximum Subarray | 🟢 Easy |
+| 54 | Spiral Matrix | 🟡 Medium |
+| 73 | Set Matrix Zeroes | 🟡 Medium |
+| 74 | Search a 2D Matrix | 🟡 Medium |
+| 88 | Merge Sorted Array | 🟢 Easy |
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy |
+| 169 | Majority Element | 🟢 Easy |
+| 217 | Contains Duplicate | 🟢 Easy |
+| 704 | Binary Search | 🟢 Easy |
+| 867 | Transpose Matrix | 🟢 Easy |
 
 ---
 
@@ -213,16 +222,16 @@ Review & Learn
 
 ### 🔍 What I Focus On
 
-* 🧠 Understanding the problem before coding
-* 🔎 Identifying common DSA patterns
-* 💡 Developing brute-force solutions
-* ⚡ Optimizing the approach
-* ⏱️ Improving time complexity
-* 💾 Reducing unnecessary space usage
-* 🧪 Handling edge cases
-* ☕ Writing clean Java code
-* 📖 Learning from optimized solutions
-* 🚀 Improving problem-solving speed
+- 🧠 Understanding the problem before coding
+- 🔎 Identifying common DSA patterns
+- 💡 Developing brute-force solutions
+- ⚡ Optimizing the approach
+- ⏱️ Improving time complexity
+- 💾 Reducing unnecessary space usage
+- 🧪 Handling edge cases
+- ☕ Writing clean and readable Java code
+- 📖 Learning from optimized solutions
+- 🚀 Improving problem-solving speed
 
 ---
 
@@ -230,13 +239,13 @@ Review & Learn
 
 I actively analyze the efficiency of my solutions.
 
-| Complexity             | Focus                           |
-| ---------------------- | ------------------------------- |
-| ⏱️ Time Complexity     | Faster and scalable algorithms  |
-| 💾 Space Complexity    | Efficient memory usage          |
-| 📊 Input Constraints   | Choosing appropriate approaches |
-| 🧠 Pattern Recognition | Reusing learned techniques      |
-| ⚡ Optimization         | Improving brute-force solutions |
+| Complexity | Focus |
+|------------|-------|
+| ⏱️ Time Complexity | Faster and scalable algorithms |
+| 💾 Space Complexity | Efficient memory usage |
+| 📊 Input Constraints | Choosing the right approach |
+| 🧠 Pattern Recognition | Reusing learned techniques |
+| ⚡ Optimization | Improving brute-force solutions |
 
 ---
 
@@ -300,58 +309,58 @@ Each problem folder contains the corresponding **Java implementation**.
 
 ## 🟢 Phase 1 — Foundations
 
-* [x] Arrays
-* [x] Strings
-* [x] HashMap
-* [x] Stack
-* [x] Queue
-* [x] Linked List
-* [x] Binary Search
-* [x] Sorting
-* [x] Matrix
+- [x] Arrays
+- [x] Strings
+- [x] HashMap
+- [x] Stack
+- [x] Queue
+- [x] Linked List
+- [x] Binary Search
+- [x] Sorting
+- [x] Matrix
 
 ## 🟡 Phase 2 — Trees
 
-* [x] Binary Tree
-* [x] Binary Search Tree
-* [x] DFS
-* [x] BFS
-* [x] Tree Traversals
-* [x] Lowest Common Ancestor
-* [x] Binary Lifting
-* [ ] Advanced Tree Problems
+- [x] Binary Tree
+- [x] Binary Search Tree
+- [x] DFS
+- [x] BFS
+- [x] Tree Traversals
+- [x] Lowest Common Ancestor
+- [x] Binary Lifting
+- [ ] Advanced Tree Problems
 
 ## 🔵 Phase 3 — Advanced DSA
 
-* [ ] Graphs
-* [ ] Dynamic Programming
-* [ ] Advanced Backtracking
-* [ ] Heaps
-* [ ] Tries
-* [ ] Union Find
-* [ ] Advanced Greedy
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Advanced Backtracking
+- [ ] Heaps
+- [ ] Tries
+- [ ] Union Find
+- [ ] Advanced Greedy
 
 ## 🔴 Phase 4 — Interview Preparation
 
-* [ ] 100 LeetCode Problems
-* [ ] 150+ Problems
-* [ ] 250+ Problems
-* [ ] LeetCode Contests
-* [ ] Improve Contest Rating
-* [ ] Mock Interviews
-* [ ] SDE Interview Preparation
+- [ ] 100 LeetCode Problems
+- [ ] 150+ Problems
+- [ ] 250+ Problems
+- [ ] LeetCode Contests
+- [ ] Improve Contest Rating
+- [ ] Mock Interviews
+- [ ] SDE Interview Preparation
 
 ---
 
 # 🎯 Current Goals
 
-* [ ] 💯 100 Problems
-* [ ] 🚀 250 Problems
-* [ ] 🏆 500 Problems
-* [ ] 👑 1000 Problems
-* [ ] 🧠 Master DSA Patterns
-* [ ] 🎯 Become Interview Ready
-* [ ] 💻 Crack SDE Opportunities
+- [ ] 💯 100 Problems
+- [ ] 🚀 250 Problems
+- [ ] 🏆 500 Problems
+- [ ] 👑 1000 Problems
+- [ ] 🧠 Master DSA Patterns
+- [ ] 🎯 Become Interview Ready
+- [ ] 💻 Crack SDE Opportunities
 
 ---
 
@@ -385,11 +394,11 @@ Each problem folder contains the corresponding **Java implementation**.
 
 Every problem is an opportunity to learn a new:
 
-* 🧠 Pattern
-* ⚡ Algorithm
-* 📦 Data Structure
-* 🎯 Optimization
-* 💡 Problem-Solving Technique
+- 🧠 Pattern
+- ⚡ Algorithm
+- 📦 Data Structure
+- 🎯 Optimization
+- 💡 Problem-Solving Technique
 
 ---
 
@@ -435,7 +444,7 @@ Software Engineer 🚀
 
 # ⭐ Support
 
-If you find this repository helpful:
+If you find this repository useful:
 
 ⭐ **Star the repository**
 
@@ -460,9 +469,7 @@ If you find this repository helpful:
 ---
 
 <!-- ========================================================= -->
-
 <!--                  LEETCODE TOPICS                           -->
-
 <!-- ========================================================= -->
 
 <!---LeetCode Topics Start-->
@@ -471,177 +478,174 @@ If you find this repository helpful:
 
 ## Array
 
-| Problem                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water)                                   |
+| Problem |
+|---------|
+| [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals)                                   |
-| [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain)                             |
+| [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 
 ## Dynamic Programming
 
-| Problem                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals)       |
+| Problem |
+|---------|
+| [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 
 ## Greedy
 
-| Problem                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water)       |
-| [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals)       |
+| Problem |
+|---------|
+| [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 
 ## Sorting
 
-| Problem                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals)                             |
-| [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain)                       |
+| Problem |
+|---------|
+| [0435-non-overlapping-intervals](https://github.com/ujjawal808/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ujjawal808/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 
 ## Stack
 
-| Problem                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0094-binary-tree-inorder-traversal)     |
-| [0144-binary-tree-preorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0144-binary-tree-preorder-traversal)   |
+| Problem |
+|---------|
+| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 
 ## Tree
 
-| Problem                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0094-binary-tree-inorder-traversal)                           |
-| [0098-validate-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0098-validate-binary-search-tree)                               |
-| [0102-binary-tree-level-order-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0102-binary-tree-level-order-traversal)                   |
+| Problem |
+|---------|
+| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0144-binary-tree-preorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0144-binary-tree-preorder-traversal)                         |
-| [0145-binary-tree-postorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0145-binary-tree-postorder-traversal)                       |
-| [0226-invert-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0226-invert-binary-tree)                                                 |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree)       |
-| [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths)                                                   |
-| [0450-delete-node-in-a-bst](https://github.com/ujjawal808/Leetcode/tree/master/0450-delete-node-in-a-bst)                                             |
-| [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree)                                       |
-| [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree)                                       |
-| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree)                         |
-| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree)                     |
-| [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst)                                                     |
-| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees)       |
-| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree)                             |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/ujjawal808/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 
 ## Depth-First Search
 
-| Problem                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0094-binary-tree-inorder-traversal)                     |
-| [0098-validate-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0098-validate-binary-search-tree)                         |
-| [0144-binary-tree-preorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0144-binary-tree-preorder-traversal)                   |
-| [0145-binary-tree-postorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0145-binary-tree-postorder-traversal)                 |
-| [0226-invert-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0226-invert-binary-tree)                                           |
+| Problem |
+|---------|
+| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths)                                             |
-| [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree)                                 |
-| [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree)                                 |
-| [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst)                                               |
+| [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
-| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree)                       |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 
 ## Binary Tree
 
-| Problem                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0094-binary-tree-inorder-traversal)                           |
-| [0098-validate-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0098-validate-binary-search-tree)                               |
-| [0102-binary-tree-level-order-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0102-binary-tree-level-order-traversal)                   |
+| Problem |
+|---------|
+| [0094-binary-tree-inorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0144-binary-tree-preorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0144-binary-tree-preorder-traversal)                         |
-| [0145-binary-tree-postorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0145-binary-tree-postorder-traversal)                       |
-| [0226-invert-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0226-invert-binary-tree)                                                 |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree)       |
-| [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths)                                                   |
-| [0450-delete-node-in-a-bst](https://github.com/ujjawal808/Leetcode/tree/master/0450-delete-node-in-a-bst)                                             |
-| [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree)                                       |
-| [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree)                                       |
-| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree)                         |
-| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree)                     |
-| [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst)                                                     |
-| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees)       |
-| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree)                             |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/ujjawal808/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 
 ## DP on Trees
 
-| Problem                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
+| Problem |
+|---------|
 | [0543-diameter-of-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 
 ## String Matching
 
-| Problem                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
-| [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths)             |
+| Problem |
+|---------|
+| [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree) |
 
 ## Hash Function
 
-| Problem                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
+| Problem |
+|---------|
 | [0572-subtree-of-another-tree](https://github.com/ujjawal808/Leetcode/tree/master/0572-subtree-of-another-tree) |
 
 ## Binary Lifting
 
-| Problem                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Problem |
+|---------|
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 
 ## Lowest Common Ancestor
 
-| Problem                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Problem |
+|---------|
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 
 ## Breadth-First Search
 
-| Problem                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
+| Problem |
+|---------|
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjawal808/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
-| [0226-invert-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0226-invert-binary-tree)                               |
+| [0226-invert-binary-tree](https://github.com/ujjawal808/Leetcode/tree/master/0226-invert-binary-tree) |
 
 ## Binary Search Tree
 
-| Problem                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [0098-validate-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0098-validate-binary-search-tree)                               |
+| Problem |
+|---------|
+| [0098-validate-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0450-delete-node-in-a-bst](https://github.com/ujjawal808/Leetcode/tree/master/0450-delete-node-in-a-bst)                                             |
-| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree)                         |
-| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree)                     |
-| [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst)                                                     |
-| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees)       |
-| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree)                             |
+| [0450-delete-node-in-a-bst](https://github.com/ujjawal808/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ujjawal808/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ujjawal808/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 
 ## Backtracking
 
-| Problem                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
+| Problem |
+|---------|
 | [0257-binary-tree-paths](https://github.com/ujjawal808/Leetcode/tree/master/0257-binary-tree-paths) |
 
 ## Divide and Conquer
 
-| Problem                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Problem |
+|---------|
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree)                             |
+| [1382-balance-a-binary-search-tree](https://github.com/ujjawal808/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 
 ## Two Pointers
 
-| Problem                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------- |
+| Problem |
+|---------|
 | [0011-container-with-most-water](https://github.com/ujjawal808/Leetcode/tree/master/0011-container-with-most-water) |
 
 <!---LeetCode Topics End-->
-
-```
-```
